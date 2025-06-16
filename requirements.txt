@@ -2,3 +2,5 @@ pandas
 matplotlib.pyplot
 seaborn
 scikit-learn
+IPython
+ipywidgets

@@ -4,3 +4,7 @@ seaborn
 scikit-learn
 IPython
 ipywidgets
+torch
+numpy
+re
+wordcloud
